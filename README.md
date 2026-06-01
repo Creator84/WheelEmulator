@@ -116,7 +116,7 @@ dotnet build WheelEmulator.sln -c Release
 dotnet publish src/WheelEmulator.App -c Release -o publish/
 ```
 
-Produces a single `WheelEmulator.App.exe` (~70 MB) with no external dependencies.
+Produces a single `WheelEmulator.App.exe` (~170 MB) with no external dependencies.
 
 ---
 
